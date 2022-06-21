@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "tejeswar_68",
+      "dob": "2003-08-06",
+      "loc": "Hyderabad",
+      "email": "tejeswarmurthypalwadi@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "saiarun043",
+      "dob": "1993-09-28",
+      "loc": "Hyderabad",
+      "email": "saiarunkumarpalwadi@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": []
+}
